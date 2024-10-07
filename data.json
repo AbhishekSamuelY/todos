@@ -1,0 +1,31 @@
+{
+    "users":[
+        {
+            "name":"abhishek",
+            "email":"abhishek18samuel@gmail.com",
+            "dateOfJoining":"06-10-2024",
+            "mobile":"8892842670",
+            "tasks":[
+                {
+                    "id":"1",
+                    "taskName":"learn java",
+                    "taskDetails":"learn collections, hashmap, data types",
+                    "taskCreatedOn":"06-10-2024",
+                    "tags":[],
+                    "taskStatus":true,
+                    "taskPastPone":false,
+                    "taskEndTime":"06-10-2024",
+                    "taskCollabrators":["abhishek@gmail.com"],
+                    "taskComments":[
+                        {
+                            "taskCommentId":"01",
+                            "taskComment":"",
+                            "taskCommentDateTime":"",
+                            "reactions":["likes","dislikes"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
